@@ -12,6 +12,11 @@ Modifies tab targeting by scanning targets and sorting them by distance. Adds th
 
 ---
 
+**Now on Thunderstore:**
+- [Thunderstore - Tab Target by Distance](https://thunderstore.io/c/erenshor/p/StaticExtasy/TabTargetbyDistance/)
+
+---
+
 **Optional:**
 
 - [BepInEx Configuration Manager](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)  
